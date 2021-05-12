@@ -1,0 +1,10 @@
+Reference, Value, Footprint, Datasheet
+"U1","NE555","Package_DIP:DIP-8_W7.62mm","http://www.ti.com/lit/ds/symlink/ne555.pdf"
+"R1","8k 1/4W","Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal","~"
+"D1","1N4148","Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal","https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+"RV1","50k","","~"
+"R2","680k 1/4W","Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal","~"
+"C2","100nF","Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm","~"
+"C1","33nF","Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm","~"
+"J1","Vin de 4.5V a 6V","Connector_Phoenix_MKDS:PhoenixContact_MKDS_1,5_2-1727010-1x02_P3.50mm","~"
+"J2","Screw_Terminal_01x03","Connector_Phoenix_MKDS:PhoenixContact_MKDS_1,5_3-19325191-1x03_P3.50mm","~"
