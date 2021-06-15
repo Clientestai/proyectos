@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name control-probador-motores-pap-rescue)(type Legacy)(uri ${KIPRJMOD}/control-probador-motores-pap-rescue.lib)(options "")(descr ""))
+)
